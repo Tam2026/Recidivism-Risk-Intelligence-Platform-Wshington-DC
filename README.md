@@ -1,4 +1,4 @@
-## 🔍 Project Motivation
+## Project Motivation
 
 This self‑motivated pilot project reflects my personal interest in justice‑system analytics and my commitment to understanding how data can improve public safety outcomes. I created this project to explore how modern data engineering, predictive modeling, and visualization techniques can support evidence‑based decision‑making in justice agencies .
 
